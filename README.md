@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Karachi, Pakistan · Open to remote roles
+Karachi, Pakistan · Open to remote and on-site roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-nouman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifamohammad603@gmail.com)
