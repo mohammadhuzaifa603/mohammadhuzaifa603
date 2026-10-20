@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+dashboards+and+ML+models;Developing+RAG-based+AI+applications)](https://github.com/mohammadhuzaifa603)
 
-📍 Karachi, Pakistan &nbsp;·&nbsp; 🌐 Open to remote roles
+Karachi, Pakistan · Open to remote and on-site roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-nouman/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadhuzaifa603)
