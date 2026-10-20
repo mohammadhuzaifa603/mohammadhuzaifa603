@@ -2,34 +2,24 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+dashboards+and+ML+models;Developing+RAG-based+AI+applications)](https://github.com/mohammadhuzaifa603)
-
-Karachi, Pakistan · Open to remote and on-site roles
+Karachi, Pakistan · Open to remote roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-nouman/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadhuzaifa603)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifamohammad603@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Data Science graduate (BS, DHA Suffa University, 2026) seeking entry-level roles in **Data Analytics, Business Intelligence, and AI Engineering**.
+Data Science graduate (BS, DHA Suffa University, 2026) seeking entry-level roles in **Data Analytics, Business Intelligence, AI Engineering, and AI Automation**.
 
-**What I do**
-- Analyze business data with Python and SQL and turn it into clear Power BI dashboards
-- Build machine learning models for prediction and classification
-- Develop AI tools, including a RAG-based system that answers questions from company documents
-
-**What I bring**
-- Hands-on project experience, from dashboards on 50,000 records to a final year project using machine learning and image classification
-- A remote AI Automations internship at DevelopersHub Corporation (Aug–Oct 2026)
-- Earlier work in sales reporting, so I understand the business questions behind the data
+I have hands-on experience in sales reporting, business intelligence, and AI application development. I build interactive dashboards, predictive models, and LLM-based RAG document intelligence systems using FastAPI and PostgreSQL.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
@@ -38,52 +28,71 @@ Data Science graduate (BS, DHA Suffa University, 2026) seeking entry-level roles
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-| Area | Tools and Concepts |
+| Area | Skills |
 |---|---|
-| **Programming** | Python, SQL |
-| **Data Analysis** | Data cleaning, exploratory data analysis |
-| **Business Intelligence** | Power BI, Excel, KPI dashboards, sales and CRM reporting |
-| **Databases** | MySQL, PostgreSQL, pgvector |
-| **Machine Learning** | Regression, classification, model evaluation, image classification |
-| **AI Applications** | RAG pipelines, vector search, FastAPI |
+| **Programming and Databases** | Python, SQL (joins, aggregations), PostgreSQL (pgvector), MySQL, ChromaDB |
+| **Data Analytics and BI** | Power BI (DAX, Power Query), Excel (Pivot Tables, XLOOKUP), data cleaning, EDA, KPI reporting, data visualization |
+| **Data Management** | ETL/ELT, data pipelines, document ingestion pipelines, dimensional modeling (star schema) |
+| **AI and Machine Learning** | RAG, agentic RAG, embeddings and vector search, hybrid retrieval, OCR, NLP, computer vision, transfer learning, regression, classification |
+| **Backend and Tools** | FastAPI, Flask, Streamlit, Scikit-Learn, Matplotlib, Git/GitHub, automated testing |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **AI Enterprise RAG & Document Intelligence Platform** | Answers questions from uploaded documents using retrieval-augmented generation. 153/153 tests passing | Python, FastAPI, PostgreSQL, pgvector |
-| [**AI Business Intelligence Assistant**](https://github.com/mohammadhuzaifa603/AI-Business-Intelligence-Assistant) | Analyzes documents and datasets and generates automated insights | Python |
-| **AgriNova** *(Final Year Project)* | Recommends fertilizer and detects crop disease from leaf images | Gradient Boosting, DenseNet121, EfficientNetV2B0 |
-| [**E-Commerce Sales Dashboard**](https://github.com/mohammadhuzaifa603/E-Commerce-Sales-Dashboard-PowerBI) | Interactive dashboard on sales, profit, and customer insights across 50,000 records | Power BI, MySQL |
-| [**Big Data CRM Analysis**](https://github.com/mohammadhuzaifa603/Big-Data-CRM-Analysis) | Customer behavior patterns and segmentation | Python, Jupyter |
-| [**Predictive Model Analysis**](https://github.com/mohammadhuzaifa603/Predictive-Model-Analysis) | House price, salary, stock price, and temperature prediction | Python, Jupyter |
+### [AI Enterprise RAG & Document Intelligence Platform](https://github.com/mohammadhuzaifa603/AI_Enterprise_RAG)
+Document question-answering system with PDF/OCR extraction, hybrid keyword and vector retrieval, reranking, and source citations. 153/153 automated tests passing.
+`Python` `FastAPI` `PostgreSQL` `pgvector` `OCR`
+
+### [AI Business Intelligence Assistant](https://github.com/mohammadhuzaifa603/AI-Business-Intelligence-Assistant)
+Assistant that answers questions about business documents and datasets in natural language and generates automated insights.
+`Python` `FastAPI` `SQL` `ChromaDB` `Streamlit`
+
+### [E-Commerce Sales Dashboard](https://github.com/mohammadhuzaifa603/E-Commerce-Sales-Dashboard-PowerBI)
+Interactive dashboard analyzing 50,000 sales records to track revenue, profit, and customer insights.
+`Power BI` `DAX` `MySQL`
+
+### AgriNova: AI Smart Farming Assistant (Final Year Project)
+Farming application with fertilizer recommendation (Gradient Boosting), crop leaf disease detection (DenseNet121, EfficientNetV2B0), and an AI chatbot.
+`Python` `Scikit-Learn` `Flask`
+
+**More:** [Big Data CRM Analysis](https://github.com/mohammadhuzaifa603/Big-Data-CRM-Analysis) · [Predictive Model Analysis](https://github.com/mohammadhuzaifa603/Predictive-Model-Analysis) · [Unemployment Analysis](https://github.com/mohammadhuzaifa603/Unemployment-Analysis-with-Python-)
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Period |
 |---|---|---|
 | AI Automations Intern | DevelopersHub Corporation (Remote) | Aug 2026 – Oct 2026 |
 | Freelance Video Editor | Self-employed | Sep 2023 – Present |
-| Telesales Executive (Sales Reporting) | APT Solutions | 2023 |
-| Sales Executive (Sales Operations & Reporting) | Al Hannan IT Solutions | 2022 |
+| Telesales Executive (Sales Reporting) | APT Solutions | Aug 2023 – Nov 2023 |
+| Sales Executive (Sales Operations & Reporting) | Al Hannan IT Solutions | Jun 2022 – Oct 2022 |
 
 ---
 
-## 🎓 Education
+## Education and Certifications
 
-**BS Data Science**, DHA Suffa University · Oct 2022 – Jul 2026
+**BS Data Science**, DHA Suffa University, Karachi (2022 – 2026)
+
+- AI Fluency: Framework & Foundations (Anthropic)
+- Google Data Analytics: Foundations (Google / Coursera)
+- Big Data & Machine Learning Fundamentals (Google Cloud Skills Boost)
+- Introduction to SQL, Python, and Power BI (DataCamp)
+
+**Languages:** English (professional working proficiency), Urdu (native)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm open to entry-level **Data Analyst, BI Analyst, and AI/ML** roles, remote or on-site in Pakistan.
+Open to entry-level **Data Analyst, BI Analyst, AI Engineer, and AI Automation** roles.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-nouman/)
 
